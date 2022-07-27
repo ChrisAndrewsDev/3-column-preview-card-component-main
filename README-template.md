@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My FEM solution](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/flexbox-andand-responsive-design-8IE6JQ7MhA)
 - Live Site URL: [My live solution](https://3-column-preview-card-component-main-pink-alpha.vercel.app/)
 
 ## My process
